@@ -1,0 +1,21 @@
+{
+  "listen": {
+    "properties": {
+      "listen_type": {
+        "type": "string"
+      },
+      "payload": {
+        "type": "object",
+        "properties": {
+          "listened_at": {
+            "type": "date",
+            "format": "epoch_second"
+          }
+        }
+      },
+      "track_metadata": {
+        "type": "object"
+      }
+    }
+  }
+}
