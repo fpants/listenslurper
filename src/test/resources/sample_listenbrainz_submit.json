@@ -1,0 +1,21 @@
+{
+  "listen_type": "single",
+  "payload": [
+    {
+      "listened_at": 1443521965,
+      "track_metadata": {
+        "additional_info": {
+          "release_mbid": "ae58387b-a1b6-32f0-853d-865f8e241523",
+          "artist_mbids": [
+            "c80f38a6-9980-485d-997c-5c1a9cbd0d64"
+          ],
+          "recording_mbid": "90d6da2b-cb82-461a-8b05-1877bec4aaeb",
+          "tags": [ "rock", "country"]
+        },
+        "artist_name": "Ryan Adams",
+        "track_name": "New York, New York",
+        "release_name": "Gold"
+      }
+    }
+  ]
+}
